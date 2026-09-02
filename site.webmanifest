@@ -1,0 +1,12 @@
+{
+  "name": "Sari3 LLC",
+  "short_name": "Sari3",
+  "description": "Official website of Sari3 LLC, a software development company.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#071a2b",
+  "icons": [
+    { "src": "/assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
